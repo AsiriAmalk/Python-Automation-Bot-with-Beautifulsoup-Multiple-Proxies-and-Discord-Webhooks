@@ -14,8 +14,9 @@ sys.path.insert(0, parentdir)
 from brettwerk_bot.webhook import run_app_dunk
 
 # Change The web-hook url with your own
-webhook_url = "https://discordapp.com/api/webhooks/729952839379582997/tVvW77hGEAo1HrKegS2mWzlOXdCiqe2994w7i762NZnHD_iZPenHlq-gAI6NXE61SCpR"
-
+webhook_url = "Your Discord webhook Url"
+# Here is how to create a discord webhook
+# https://medium.com/@asiriamalk/how-to-create-discord-webhook-and-test-using-postman-926a1f846aaf
 
 if __name__ == "__main__":
     print("Bot Started...")

@@ -26,7 +26,9 @@ from discord_webhook import DiscordWebhook, DiscordEmbed
 
 from datetime import datetime
 
-webhook_url = "https://discordapp.com/api/webhooks/729952839379582997/tVvW77hGEAo1HrKegS2mWzlOXdCiqe2994w7i762NZnHD_iZPenHlq-gAI6NXE61SCpR"
+webhook_url = "Your Discord webhook Url"
+# Here is how to create a discord webhook
+# https://medium.com/@asiriamalk/how-to-create-discord-webhook-and-test-using-postman-926a1f846aafwebhook_url = "https://discordapp.com/api/webhooks/729952839379582997/tVvW77hGEAo1HrKegS2mWzlOXdCiqe2994w7i762NZnHD_iZPenHlq-gAI6NXE61SCpR"
 BASE_URL = target_url = "https://www.brettwerk.com/search?sSearch={:s}"
 
 
