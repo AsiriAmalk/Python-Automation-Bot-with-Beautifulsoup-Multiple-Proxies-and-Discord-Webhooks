@@ -5,7 +5,7 @@ discord-webhook==0.8.0
 html5lib==1.1
 idna==2.10
 lxml==4.5.1
-numpy==1.19.0
+numpy==1.22.0
 requests==2.24.0
 six==1.15.0
 soupsieve==2.0.1
